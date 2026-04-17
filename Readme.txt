@@ -1,10 +1,10 @@
 # CodSoft Data Science Internship
 
-This repository contains machine learning projects completed as part of the CodSoft Data Science Internship. 
-Each task tackles a classic data science problem — from predicting survival on the Titanic to detecting fraudulent credit card transactions.
+This repository contains machine learning projects completed as part of the CodSoft Data Science Internship. Each task tackles a classic data science problem — from predicting survival on the Titanic to detecting fraudulent credit card transactions.
 
 
 ## Tasks Overview
+
 
 ### Task 1 — Titanic Survival Prediction
 
